@@ -1,6 +1,4 @@
-# Proyecto 2 Modelado y programación 2022-2.
-
-Esteganografía por método LSB.
+# Esteganografía por método LSB.
 
 ## Semblanza.
 La esteganografía es el conunto de técnicas algorítmocas para ocultar un conjunto de datos en otro de forma
