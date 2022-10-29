@@ -1,7 +1,7 @@
 # Esteganografía por método LSB.
 
 ## Semblanza.
-La esteganografía es el conunto de técnicas algorítmocas para ocultar un conjunto de datos en otro de forma
+La esteganografía es el conunto de técnicas algorítmicas para ocultar un conjunto de datos en otro de forma
 
 que los primeros no sean evidentes, permanezcan integros y sean recuperables mientras que los segundos, a los
 
