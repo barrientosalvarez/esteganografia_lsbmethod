@@ -13,6 +13,7 @@
  *
  * Este es un proyecto de software libre.
  *
+ * Mi pinche kainal tiene que aprender a usar git :v
  * Abril 2022.
  */
 
